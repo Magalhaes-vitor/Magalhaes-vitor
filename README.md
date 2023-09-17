@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
-
-
 ### Pobre de espírito aquele que não se aventurar
 ### comodismo é um mal parasitário
 ### Juventude perdida é o c******
