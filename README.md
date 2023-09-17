@@ -1,6 +1,6 @@
 ### Pobre de espírito aquele que não se aventurar
 ### comodismo é um mal parasitário
-### Juventude perdida é o caralho
+### Juventude perdida é o c******
 ### Eu tenho muito mais pra dizer
 ###                               . . .
 
