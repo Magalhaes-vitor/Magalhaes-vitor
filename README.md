@@ -1,8 +1,6 @@
 ### Pobre de espírito aquele que não se aventurar
 ### comodismo é um mal parasitário
-### Juventude perdida é o c******
-### Eu tenho muito mais pra dizer
-###                               . . .
+
 
 <!--
 **Magalhaes-vitor/Magalhaes-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
