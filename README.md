@@ -1,7 +1,7 @@
 # Vitor Magalhães  
 **Python Developer | RPA Developer | Spark | AWS**  
 São Paulo, SP, Brazil  
-[LinkedIn](https://www.linkedin.com/in/vitor-magalhaes-60940a1b6) | [GitHub](https://github.com/Magalhaes-vitor)  
+[LinkedIn](https://www.linkedin.com/in/magalhaes-vitor) | [GitHub](https://github.com/Magalhaes-vitor)  
 
 ---
 
