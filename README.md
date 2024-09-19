@@ -1,17 +1,17 @@
 # Vitor Magalhães  
 **Python Developer | RPA Developer | Spark | AWS**  
-São Paulo, SP, Brasil  
+São Paulo, SP, Brazil  
 [LinkedIn](https://www.linkedin.com/in/vitor-magalhaes-60940a1b6) | [GitHub](https://github.com/Magalhaes-vitor)  
 
 ---
 
-### **Sobre mim**
-Desenvolvedor especializado em automações com AWS e Python. Tenho experiência na criação e suporte de soluções de RPA utilizando ferramentas como AWS Glue e Amazon Athena. Também realizei projetos acadêmicos na área de Engenharia da Informação, publicados em periódicos científicos.
+### **About Me**
+Developer specialized in automation with AWS and Python. I have experience in creating and supporting RPA solutions using tools like AWS Glue and Amazon Athena. Additionally, I have conducted academic projects in the field of Information Engineering, published in scientific journals.
 
-### **Principais Competências**
+### **Key Skills**
 - Python  
 - AWS (Glue, Athena)  
 - Spark  
 - RPA  
 
----
+--- 
