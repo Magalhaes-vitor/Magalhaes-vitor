@@ -1,18 +1,17 @@
-### Pobre de espírito aquele que não se aventurar
-### comodismo é um mal parasitário
+# Vitor Magalhães  
+**Python Developer | RPA Developer | Spark | AWS**  
+São Paulo, SP, Brasil  
+[LinkedIn](https://www.linkedin.com/in/vitor-magalhaes-60940a1b6) | [GitHub](https://github.com/Magalhaes-vitor)  
 
+---
 
-<!--
-**Magalhaes-vitor/Magalhaes-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Sobre mim**
+Desenvolvedor especializado em automações com AWS e Python. Tenho experiência na criação e suporte de soluções de RPA utilizando ferramentas como AWS Glue e Amazon Athena. Também realizei projetos acadêmicos na área de Engenharia da Informação, publicados em periódicos científicos.
 
-Here are some ideas to get you started:
+### **Principais Competências**
+- Python  
+- AWS (Glue, Athena)  
+- Spark  
+- RPA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
