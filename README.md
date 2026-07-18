@@ -55,19 +55,6 @@ Gosto de unir rigor analítico (tenho pesquisa acadêmica publicada em redes neu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Magalhaes-vitor&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magalhaes-vitor&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Magalhaes-vitor&hide_border=true" />
-</p>
-
----
-
 ### 📌 Projetos em destaque
 
 #### 🌎 [Comex Data Product](https://github.com/Magalhaes-vitor/comex-data-product)
