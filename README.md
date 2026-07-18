@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Atuo hoje como **Desenvolvedor RPA com foco em Engenharia de Dados na TOP MIND**, construindo automações e pipelines de dados escaláveis. Já passei pelo **BTG Pactual**, onde desenvolvi robôs de reconciliação bancária integrados à AWS para mais de 5.000 transações diárias, reduzindo o tempo de processamento em 70%.
 
@@ -57,7 +57,7 @@ Gosto de unir rigor analítico (tenho pesquisa acadêmica publicada em redes neu
 
 ### 📌 Projetos em destaque
 
-#### 🌎 [Comex Data Product](https://github.com/Magalhaes-vitor/comex-data-product)
+#### [Comex Data Product](https://github.com/Magalhaes-vitor/comex-data-product)
 Pipeline serverless na AWS para automação e análise da balança comercial brasileira, reconciliando o volume físico movimentado no Porto de Santos (APS) com o valor declarado à alfândega (MDIC), contextualizado por câmbio (Bacen) e sazonalidade agrícola (CONAB).
 
 - Orquestração via **EventBridge** disparando **AWS Lambda** (container image), com data lake em camadas **Medallion (Bronze/Silver/Gold)** no S3 e infraestrutura como código via **AWS SAM**
@@ -67,7 +67,7 @@ Pipeline serverless na AWS para automação e análise da balança comercial bra
 
 `Python` `AWS Lambda` `AWS Glue` `Athena` `Pydantic` `Docker` `AWS SAM`
 
-#### 💲 [Inteligência Competitiva e Precificação](https://github.com/Magalhaes-vitor/projeto-precificacao-inteligente)
+#### [Inteligência Competitiva e Precificação](https://github.com/Magalhaes-vitor/projeto-precificacao-inteligente)
 Pipeline end-to-end de coleta e análise de preços em múltiplos marketplaces (e-commerce e varejo), gerando inteligência competitiva para tomada de decisão em precificação.
 
 - **Scrapers em Python/Selenium** para captura automatizada de preços
