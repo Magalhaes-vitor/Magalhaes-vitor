@@ -64,6 +64,7 @@ Pipeline serverless na AWS para automação e análise da balança comercial bra
 - **Data Contracts com Pydantic** e circuit breakers de qualidade, com alertas em tempo real via **Slack**
 - Modelo dimensional consultável via **Athena SQL** e dashboards em **Power BI**
 - Em produção: pipeline completo roda em ~69s e já processou **8,86 milhões de registros** em uma reconstrução histórica de 2019–2026
+- Relatório final em formato técnico-científico (ABNT) com validação estatística de duas hipóteses sobre a série histórica — [leia o PDF](https://github.com/Magalhaes-vitor/comex-data-product/blob/main/docs/relatorio_analise_final.pdf)
 
 `Python` `AWS Lambda` `AWS Glue` `Athena` `Pydantic` `Docker` `AWS SAM`
 
