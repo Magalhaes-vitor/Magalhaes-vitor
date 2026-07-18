@@ -14,11 +14,11 @@
 
 ### Sobre mim
 
-Atuo hoje como **Desenvolvedor RPA com foco em Engenharia de Dados na TOP MIND**, construindo automações e pipelines de dados escaláveis. Já passei pelo **BTG Pactual**, onde desenvolvi robôs de reconciliação bancária integrados à AWS para mais de 5.000 transações diárias, reduzindo o tempo de processamento em 70%.
+Atuo hoje como **Desenvolvedor RPA com foco em Engenharia de Dados na TOPMIND**, construindo automações e pipelines de dados escaláveis. Já passei pelo **BTG Pactual**, onde desenvolvi robôs de reconciliação bancária integrados à AWS para mais de 5.000 transações diárias, reduzindo o tempo de processamento em 70%.
 
 Gosto de unir rigor analítico (tenho pesquisa acadêmica publicada em redes neurais) com entrega ágil: minha praia é pegar dados brutos e transformá-los em pipelines serverless, resilientes e baratos de operar.
 
-- Trabalhando atualmente com automação RPA e engenharia de dados para a **TOP MIND**
+- Trabalhando atualmente com automação RPA e engenharia de dados para a **TOPMIND**
 - Aprofundando conhecimento em arquiteturas serverless e Data Contracts na AWS
 ---
 
@@ -63,7 +63,8 @@ Pipeline serverless na AWS para automação e análise da balança comercial bra
 - Orquestração via **EventBridge** disparando **AWS Lambda** (container image), com data lake em camadas **Medallion (Bronze/Silver/Gold)** no S3 e infraestrutura como código via **AWS SAM**
 - **Data Contracts com Pydantic** e circuit breakers de qualidade, com alertas em tempo real via **Slack**
 - Modelo dimensional consultável via **Athena SQL** e dashboards em **Power BI**
-- Em produção: pipeline completo roda em ~69s e já processou **8,86 milhões de registros** em uma reconstrução histórica de 2019–2026
+- Execução de referência (mensal, em produção): ~69s, ~117 mil registros MDIC.
+- Backfill histórico consolidado: 79 lotes, 8,86 milhões de registros (2019–2026).
 - Relatório final em formato técnico-científico (ABNT) com validação estatística de duas hipóteses sobre a série histórica — [leia o PDF](https://github.com/Magalhaes-vitor/comex-data-product/blob/main/docs/relatorio_analise_final.pdf)
 
 `Python` `AWS Lambda` `AWS Glue` `Athena` `Pydantic` `Docker` `AWS SAM`
