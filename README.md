@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Vitor de Toledo Magalhães 👋</h1>
+<h1 align="center">Vitor de Toledo Magalhães</h1>
 <h3 align="center">Desenvolvedor Python | Automação (RPA) | Engenharia de Dados Cloud (AWS)</h3>
 
 <p align="center">
