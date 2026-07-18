@@ -18,10 +18,8 @@ Atuo hoje como **Desenvolvedor RPA com foco em Engenharia de Dados na TOP MIND**
 
 Gosto de unir rigor analítico (tenho pesquisa acadêmica publicada em redes neurais) com entrega ágil: minha praia é pegar dados brutos e transformá-los em pipelines serverless, resilientes e baratos de operar.
 
-- 🔭 Trabalhando atualmente com automação RPA e engenharia de dados para a **TOP MIND**
-- 🌱 Aprofundando conhecimento em arquiteturas serverless e Data Contracts na AWS
-- 💬 Fale comigo sobre AWS, ETL/ELT, RPA ou Python
-
+- Trabalhando atualmente com automação RPA e engenharia de dados para a **TOP MIND**
+- Aprofundando conhecimento em arquiteturas serverless e Data Contracts na AWS
 ---
 
 ### 🛠️ Stack & Ferramentas
